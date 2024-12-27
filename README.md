@@ -1,4 +1,4 @@
-<img src="docs/icon.png" width="96" align="right" />
+ <img src="docs/icon.png" width="96" align="right" />
 
 # SPIC - Simple Play Integrity Checker
 <p align="center">
